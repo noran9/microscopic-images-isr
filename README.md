@@ -1,3 +1,4 @@
+# Super resolution on microscopic images of different tissues using GAN architectures
 Implementation of the SRGAN and ESRGAN models for image super resolution on a custom set consisting of microscopic images of different tissues.
 
 # Dataset
